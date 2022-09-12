@@ -2,3 +2,19 @@
 
 i can use kaggle by smartphone
 
+
+i start google universal embedding
+
+i write here everyday
+
+my pc is low spec 
+so i need find low data sample code
+
+i want to buy high spec pc
+
+https://www.kaggle.com/code/queyrusi/efficientnet-elements-of-image-embedding/notebook
+
+i try this code now
+
+copy and paste
+
