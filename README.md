@@ -1,3 +1,12 @@
+
+
+# 2022/9/14
+
+i have no time 
+
+i focus learning english now
+
+
 # 2022/9/12
 
 i can use kaggle by smartphone
