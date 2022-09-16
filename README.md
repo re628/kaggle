@@ -1,4 +1,11 @@
 
+# 202/9/16
+
+https://www.kaggle.com/competitions/google-universal-image-embedding/discussion/337384
+data
+
+
+
 
 # 2022/9/14
 
