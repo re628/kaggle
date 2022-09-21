@@ -1,5 +1,18 @@
+# 2022/9/21
 
-# 202/9/16
+'i use this site '
+
+'code'
+
+
+https://www.kaggle.com/code/lau01b/the-best-way-to-get-starte-google-embedding-clip/notebook
+
+
+
+
+
+
+# 2022/9/16
 
 https://www.kaggle.com/competitions/google-universal-image-embedding/discussion/337384
 data
