@@ -1,3 +1,26 @@
+2022/10/2
+
+i write here 10 days ago
+i restart writing here
+
+
+https://www.kaggle.com/discussions/general/196018
+this url is bigginer site
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 2022/9/21
 
 'i use this site '
