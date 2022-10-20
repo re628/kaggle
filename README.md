@@ -1,3 +1,18 @@
+
+
+
+2022/10/20
+
+i try this code
+https://www.kaggle.com/code/dinanabil811/ann-for-smoke-detection/notebook
+
+
+
+
+
+
+
+
 2022/10/2
 
 i write here 10 days ago
